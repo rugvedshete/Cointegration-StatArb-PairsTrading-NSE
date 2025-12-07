@@ -59,13 +59,3 @@ Python, pandas, numpy, statsmodels, matplotlib, yfinance
 - Johansen cointegration for baskets
 
 ---
-
-## 👨‍💻 Author
-Rugved Shete  
-Aspiring Quant / HFT Analyst  
-📍 Pune, India
-
-⭐ If you liked this repo — please give it a star!
-
-
-## 📁 Files
